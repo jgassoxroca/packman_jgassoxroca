@@ -7,7 +7,7 @@ public class Principal {
 
 		
 		System.out.println("GitHub del Joel Gassó i el Xavier Roca");
-		System.out.println("HE modificat algo");
+		System.out.println("HE modificat algoooooo");
 	}
 
 }
